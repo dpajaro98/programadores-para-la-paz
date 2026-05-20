@@ -1,0 +1,6 @@
+Es importante para nosotros como desarrolladores, porque la terminal permite moverte entre carpetas, crear, copiar o eliminar archivos con 
+comandos rápidos y precisos, sin depender de interfaces gráficas que pueden ser más lentas o no estar 
+disponibles (por ejemplo, en servidores remotos). Además, muchas herramientas esenciales para desarrollo 
+(como Git, gestores de paquetes o compiladores) se usan directamente desde la terminal, y dominar la 
+navegación y organización de archivos te da control total sobre la estructura de tu proyecto, facilitando 
+tareas repetitivas o automatizaciones que ahorran mucho tiempo.
