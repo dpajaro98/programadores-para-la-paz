@@ -1,6 +1,0 @@
-1.Buscar la información
-2.Revisar la fuente
-3.Confirmar la noticia
-4.Verificar la fecha y el contexto
-5.Detectar sesgos y manipulación
-6.Compartir de forma responsable
