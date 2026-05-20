@@ -1,0 +1,8 @@
+Estas tres cosas están más conectadas de lo que parece: usar bien la información en internet, 
+participar como ciudadano y organizar trabajo técnico con Git. ¿La clave? Ética, transparencia y 
+trabajo en equipo. Cuando eres responsable en redes, verificas antes de compartir y ayudas a que 
+los demás tomen mejores decisiones. Eso mismo pasa con Git: lleva un registro claro de cada 
+cambio, todo se puede revisar y nadie actúa por su cuenta sin acuerdo. Así como no deberías 
+difundir una mentira, tampoco deberías borrar el trabajo de otro sin razón. Ambos mundos 
+necesitan pasos claros para no volverse un caos. Al final, construir software confiable o una 
+opinión pública informada requiere las mismas bases: orden, claridad y colaboración.
