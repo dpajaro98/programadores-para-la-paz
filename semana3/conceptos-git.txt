@@ -1,0 +1,14 @@
+Repositorio
+Es una carpeta donde Git guarda todo el historial de cambios de un proyecto. Almacena los 
+archivos actuales, las versiones anteriores, quién modificó cada cosa y cuándo, lo que permite volver atrás 
+si algo sale mal.
+
+Commit
+Es una captura del estado de un proyecto en un momento determinado. Cada commit guarda los cambios 
+preparados junto con un mensaje que describe lo que se hizo, funcionando como un punto de control al que se 
+puede regresar cuando sea necesario.
+
+Push
+Es el comando que envía los commits hechos en la computadora local hacia un repositorio remoto, como 
+GitHub o GitLab. Así otros colaboradores pueden ver los cambios y se respalda el trabajo en la nube o en un 
+servidor compartido.
