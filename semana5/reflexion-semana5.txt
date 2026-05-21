@@ -1,0 +1,9 @@
+Las APIs funcionan como canales ordenados que permiten a una comunidad recibir, organizar y compartir 
+información sin depender de conversaciones dispersas en redes sociales. Por ejemplo, un vecino puede 
+reportar una fuga o un bache a través de un formulario sencillo; ese dato llega a una base de datos 
+comunitaria y puede reflejarse en un mapa visible para todos. Así se evita que la información se pierda en 
+cadenas de mensajes o grupos cerrados. Una API bien diseñada también puede enviar alertas automáticas 
+cuando un reporte es urgente, lo que agiliza la respuesta colectiva o institucional. Al centralizar los 
+datos de forma clara, se vuelve posible generar estadísticas útiles para tomar decisiones en conjunto. En 
+ese sentido, las APIs ayudan a construir una participación más organizada, transparente y orientada a la 
+convivencia pacífica.

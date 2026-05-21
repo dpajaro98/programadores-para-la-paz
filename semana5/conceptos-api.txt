@@ -1,0 +1,8 @@
+¿Qué hace esta ruta?
+Recibe un mensaje enviado por el usuario a través de una solicitud POST y responde 
+confirmando que el reporte fue recibido junto con el contenido del mensaje.
+
+¿Para qué podría servir en una aplicación comunitaria?
+Para que los vecinos puedan reportar incidentes en 
+su barrio (como baches, fugas de agua o inseguridad) y recibir una confirmación inmediata de que su reporte 
+ha llegado al sistema comunitario con exito.
