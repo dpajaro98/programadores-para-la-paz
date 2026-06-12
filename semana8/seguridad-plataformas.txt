@@ -1,0 +1,10 @@
+    Cerrar sesión al terminar de usar la plataforma.
+
+    No reutilizar la misma contraseña en otras aplicaciones.
+
+    Mantener el software y los plugins siempre actualizados.
+
+    No compartir enlaces directos de acceso a reportes internos.
+
+    Realizar copias de seguridad periódicas de la información.
+

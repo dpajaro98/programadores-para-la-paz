@@ -1,0 +1,11 @@
+La seguridad digital es importante para proteger plataformas comunitarias o participativas porque estas 
+manejan información sensible de las personas, como nombres, ubicaciones o reportes sobre problemas del 
+barrio. Si alguien malintencionado accede sin permiso, podría robar datos, borrar denuncias importantes o 
+hacerse pasar por un vecino para sembrar desorden. También podría vulnerar la privacidad de quienes 
+reportan temas delicados, como corrupción o amenazas, poniendo en riesgo su integridad. Una plataforma 
+insegura pierde la confianza de la comunidad: la gente deja de participar por miedo a que sus datos queden 
+expuestos. Además, sin controles adecuados, cualquiera podría modificar o eliminar información clave, 
+volviendo inútiles los reportes y el seguimiento. La seguridad también garantiza que solo las personas 
+autorizadas puedan tomar decisiones dentro de la plataforma, evitando sabotajes o manipulaciones. Por 
+último, una plataforma segura permite que la participación sea abierta pero ordenada, protegiendo tanto a 
+los usuarios como la credibilidad del proceso comunitario.

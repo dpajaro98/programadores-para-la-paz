@@ -1,0 +1,8 @@
+1. Usar contraseñas largas y diferentes para cada cuenta, combinando letras mayúsculas, minúsculas, números 
+y símbolos.
+
+2. Activar la autenticación en dos pasos (2FA) siempre que sea posible, así aunque roben la contraseña no 
+podrán entrar sin el segundo código.
+
+3. No abrir enlaces ni descargar archivos adjuntos de correos o mensajes sospechosos, especialmente si 
+vienen de remitentes desconocidos.

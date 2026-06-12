@@ -1,0 +1,2 @@
+uname -a ->  Linux lenovodr 6.12.90+deb13.1-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.12.90-2 (2026-05-27) x86_64 GNU/Linux
+whoami ->  drafael
