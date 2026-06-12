@@ -1,0 +1,9 @@
+la respuesta que devuelve el servidor es
+
+{
+    "estado": "Datos recibidos",
+    "nombre": "Maria",
+    "mensaje": "Hola comunidad"
+}
+
+confirmando que la api funciona correctamente

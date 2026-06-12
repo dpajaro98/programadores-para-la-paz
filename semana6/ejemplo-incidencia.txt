@@ -1,0 +1,7 @@
+{
+  "tipo": "Daño en Carretera",
+  "descripcion": "La comunidad reporta que hay un carter en la calle",
+  "ubicacion": "Parque oriental, frente a la calle 5",
+  "fecha": "2026-06-11",
+  "ciudadano": "Pepitorio Pérez"
+}

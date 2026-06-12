@@ -1,0 +1,9 @@
+Cuando los ciudadanos reportan un problema a través de una plataforma tecnológica, es muy útil que la 
+información llegue de forma ordenada y clara. Así, el sistema puede entender rápidamente qué pasó, dónde y 
+de qué tipo es el reporte, sin necesidad de que una persona esté revisando cada mensaje uno por uno. Esto 
+evita confusiones, como mezclar un bache con una luz fundida, y ayuda a que el reporte llegue al equipo 
+correcto sin demoras. También permite tener una visión general de lo que está pasando en la ciudad, como un 
+mapa de incidencias en tiempo real. Al estar bien organizada la información, se puede responder más rápido 
+al ciudadano, avisarle que ya recibieron su queja y darle seguimiento. En el fondo, esto se traduce en una 
+atención más ágil, menos dolores de cabeza para quienes operan el sistema y, sobre todo, soluciones más 
+rápidas para la comunidad.
