@@ -1,0 +1,9 @@
+{
+  "tipo": "Seguridad",
+  "descripcion": "Falta de señalización en zona escolar"
+}
+
+{
+  "tipo": "Movilidad",
+  "descripcion": "Semáforo dañado en intersección principal"
+}

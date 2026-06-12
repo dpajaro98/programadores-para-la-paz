@@ -1,0 +1,11 @@
+cuando se consultan los reportes con get se obtiene la siguiente respuesta
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
+

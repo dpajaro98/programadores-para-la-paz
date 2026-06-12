@@ -1,0 +1,10 @@
+Es importante que las comunidades puedan registrar y consultar reportes o incidencias en una plataforma 
+tecnológica porque eso les da poder real sobre los problemas de su entorno. Cuando una persona reporta un 
+bache, una luz fundida o un árbol caído, y puede ver después que su reporte sigue ahí o que ya fue 
+solucionado, se genera confianza en el sistema. Además, al quedar todo registrado, se evita que los 
+reclamos se pierdan en conversaciones de voz o papeles que nadie encuentra. La plataforma también permite 
+que varios vecinos vean si un problema ya fue reportado, así no se duplican esfuerzos y se puede hacer 
+seguimiento colectivo. Otra ventaja es que con los reportes guardados se pueden sacar estadísticas: cuántas 
+veces ha pasado lo mismo, en qué calles, en qué fechas. Eso ayuda a las comunidades a exigir con datos, no 
+solo con indignación. Por último, una plataforma bien usada vuelve el control ciudadano algo transparente, 
+ordenado y difícil de ignorar por las autoridades.
