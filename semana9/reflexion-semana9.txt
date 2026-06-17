@@ -1,0 +1,14 @@
+La estabilidad y seguridad de las plataformas tecnológicas son fundamentales porque estas herramientas se 
+han convertido en el principal medio de acceso a servicios básicos para muchas comunidades, como educación, 
+salud, trámites gubernamentales y comunicación familiar. Un servidor inestable que se cae constantemente 
+genera frustración, pérdida de tiempo y, lo peor, excluye a quienes no tienen otra forma de acceder a esos 
+servicios. Por otro lado, la seguridad es crítica porque las comunidades manejan datos personales 
+sensibles; una vulnerabilidad podría exponer información privada, derivando en robos de identidad o 
+fraudes.
+Además, la confianza digital es frágil: si una plataforma falla o es hackeada, los usuarios pierden 
+credibilidad en el sistema y pueden abandonarlo, rompiendo el vínculo comunitario que se había construido. 
+Un servidor bien administrado, con monitoreo constante y registros de actividad (logs), permite detectar y 
+corregir problemas antes de que afecten a los usuarios. También asegura que la plataforma pueda crecer 
+junto con la comunidad, sin colapsar ante un aumento de usuarios. En definitiva, un servidor estable y 
+seguro no es solo un detalle técnico, sino un pilar de equidad y desarrollo social, porque garantiza que la 
+tecnología cumpla su propósito de servir y proteger a las personas.

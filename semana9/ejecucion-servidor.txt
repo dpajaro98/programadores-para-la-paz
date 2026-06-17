@@ -1,0 +1,4 @@
+cuando se ejecuta el comando node server.js se ejecuta el servidor en el puerto 3000
+en la dirección localhost, luego cuando se navega a localhost:3000 dice servidor activo
+y funcionando, y cuando se va a localhost:3000/estado este nos arroja un JSON que indica
+servidor funcionando y el servicio es API comunitaria
